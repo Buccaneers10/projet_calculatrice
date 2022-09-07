@@ -1,6 +1,3 @@
-import re
-
-
 nombre1 = input("Veuillez saisir le premier nombre: ")
 nombre2 = input("Veuillez saisir le deuxième nombre: ")
 nombre1 = int(nombre1)
